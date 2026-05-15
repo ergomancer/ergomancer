@@ -82,4 +82,3 @@ Lightweight proof-of-action social platform focused on low-friction interaction.
 
 - [Portfolio](https://akashkhetan.vercel.app)
 - [Email](mailto:akashkhetan044@gmail.com)
-- [Contact](tel:+917003686821)
