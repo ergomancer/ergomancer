@@ -27,7 +27,7 @@ Full-stack developer focused on backend systems, API architecture, and product-o
 
 ## Featured Projects
 
-### Whisper
+### [Whisper](https://github.com/ergomancer/whisper)
 
 Private note-sharing platform with password-protected access and AI-generated summaries.
 
@@ -38,7 +38,7 @@ Private note-sharing platform with password-protected access and AI-generated su
 - Responsive frontend architecture
 - REST API integration
 
-### Diddit
+### [Diddit](https://github.com/ergomancer/diddit)
 
 Minimal task management application focused on speed, simplicity, and clean user interaction.
 
